@@ -1,0 +1,37 @@
+_repo: Guida-delle-Prealpi-GiulieDistretti-di-Gemona-Tarcento-S.-Daniele-Cividale-e-S.-Pietro_41948
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pontini, Antonio
+    birthdate: 1832
+    deathdate: 1918
+    gutenberg_agent_id: '41444'
+    url: http://www.gutenberg.org/2009/agents/41444
+covers:
+- cover_type: archival
+  image_path: 41948-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Marinelli, Olinto
+    birthdate: 1874
+    deathdate: 1926
+    gutenberg_agent_id: '41443'
+    url: http://www.gutenberg.org/2009/agents/41443
+description: ''
+gutenberg_bookshelf: IT Geografia
+gutenberg_issued: '2013-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41948'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Julian Alps (Slovenia and Italy) -- Description and travel'
+- !lcsh 'Julian Alps (Slovenia and Italy) -- Guidebooks'
+- !lcc 'DR'
+title: 'Guida delle Prealpi Giulie
+
+  Distretti di Gemona, Tarcento, S. Daniele, Cividale e S. Pietro'
+url: http://www.gutenberg.org/ebooks/41948
